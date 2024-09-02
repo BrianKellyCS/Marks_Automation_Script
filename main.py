@@ -1,10 +1,3 @@
-''''
-Project 3
-COMP 467
-Brian Kelly
-Due: 12/13/2023
-'''
-
 import sys
 import argparse
 import pymongo
